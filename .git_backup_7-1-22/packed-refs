@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+b490b4ea27fc15b4af1db5769c1ffff825de8779 refs/remotes/origin/fis-wip
+eceb4f192d3234f1ce7be84e6df452b98defbabb refs/remotes/origin/master
+1754775a6a8d362a67682d3fc70df768fd58177f refs/remotes/origin/solution
